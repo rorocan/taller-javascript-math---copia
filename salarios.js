@@ -218,14 +218,3 @@ salarios.push({
     { year: 2023, empresa: 'LexCorp', salario: 3050, },
   ],
 });
-salarios.push({
-  name: 'Desing Clothes',
-  trabajos: [
-    { year: 2024, empresa: 'Desing Clothes', salario: 57000, },
-    { year: 2025, empresa: 'Desing Clothes', salario: 59300, },
-    { year: 2026, empresa: 'Desing Clothes', salario: 48000, },
-    { year: 2027, empresa: 'Desing Clothes', salario: 36000, },
-    { year: 2028, empresa: 'Desing Clothes', salario: 35500, },
-    { year: 2029, empresa: 'Desing Clothes', salario: 30050, },
-  ],
-});
